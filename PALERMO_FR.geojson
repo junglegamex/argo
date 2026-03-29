@@ -1,0 +1,61 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Castello della Zisa",
+        "curiosita": "Ce palais normand possède un système ingénieux de ventilation et d’eau inspiré de l’architecture islamique, créant un effet de climatisation naturelle au XIIe siècle.",
+        "enigma": "Je suis né du désert mais je vis en pierre. L’eau me traverse sans me noyer, et même sous le soleil brûlant, je garde le souffle frais. Qui suis-je ?",
+        "soluzione": "Castello della Zisa",
+        "link": "https://it.wikipedia.org/wiki/Castello_della_Zisa"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3433, 38.1182]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Catacombe Paleocristiane di Porta d'Ossuna",
+        "curiosita": "Ces catacombes peu connues remontent aux premiers siècles du christianisme et témoignent d’une communauté ancienne vivant sous la ville.",
+        "enigma": "Sous la ville bruyante je me cache en silence. Ni palais ni marché, mais des couloirs où le temps s’est arrêté. Où suis-je ?",
+        "soluzione": "Catacombe Paleocristiane di Porta d'Ossuna",
+        "link": "https://it.wikipedia.org/wiki/Catacombe_di_Porta_d%27Ossuna"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3535, 38.1129]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Chiesa di Santa Maria dello Spasimo",
+        "curiosita": "Cette église est célèbre pour ne jamais avoir été achevée : elle n’a pas de toit, laissant entrer le ciel comme partie intégrante de l’architecture.",
+        "enigma": "Je suis une église sans ciel… ou peut-être avec trop de ciel. Mes murs prient, mais mon toit a disparu. Où suis-je ?",
+        "soluzione": "Chiesa di Santa Maria dello Spasimo",
+        "link": "https://it.wikipedia.org/wiki/Santa_Maria_dello_Spasimo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3693, 38.1159]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "nome": "Orto Botanico di Palermo (boschetto di bambù)",
+        "curiosita": "Dans ce jardin se cache une forêt de bambous qui crée un tunnel naturel, donnant l’impression d’être transporté en Asie au cœur de Palerme.",
+        "enigma": "Je ne suis pas une forêt, mais je chante comme elle. Mes tiges montent droites vers le ciel et murmurent avec le vent. Où suis-je ?",
+        "soluzione": "Orto Botanico di Palermo",
+        "link": "https://it.wikipedia.org/wiki/Orto_botanico_di_Palermo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3699, 38.1143]
+      }
+    }
+  ]
+}
