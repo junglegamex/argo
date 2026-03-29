@@ -1,0 +1,120 @@
+{
+  "type": "FeatureCollection",
+  "metadata": {
+    "titolo": "Caccia al Tesoro - Torino Segreta",
+    "descrizione": "Un percorso enigmatico attraverso 6 luoghi meno conosciuti del centro storico di Torino, tra misteri, arte barocca e simboli esoterici.",
+    "città": "Torino",
+    "durata_stimata": "2-3 ore",
+    "distanza_totale_stimata": "circa 3 km a piedi",
+    "istruzioni": "Risolvi l'enigma per scoprire la prossima tappa. Recati nel luogo indicato e cerca l'indizio per confermare la risposta."
+  },
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.67756,
+          45.07639
+        ]
+      },
+      "properties": {
+        "tappa": 1,
+        "nome": "Santuario della Consolata",
+        "indirizzo": "Piazza della Consolata, 10122 Torino",
+        "curiosità": "Accanto al santuario si erge il campanile di Sant'Andrea, risalente all'XI secolo, uno dei più antichi edifici medievali sopravvissuti a Torino. Il santuario stesso sorge sull'angolo nord-ovest dell'antica cinta muraria romana di Augusta Taurinorum, e nel sottosuolo sono ancora visibili i resti delle fondamenta della torre angolare romana. L'icona della Vergine Consolatrice, secondo la tradizione, fu ritrovata miracolosamente il 20 giugno 1104 dopo essere scomparsa per secoli.",
+        "enigma": "Sono custode silenzioso di mille anni di preghiere. Il mio campanile romanico veglia su di me, ma il mio nome non parla di santi né di apostoli: parla di conforto. Sotto i miei piedi dormono le pietre di una fortezza che proteggeva una città il cui nome antico suona come un toro regale. I fedeli vengono a me per trovare sollievo, e le pareti della mia cripta sono tappezzate di cuori d'argento. Chi sono?",
+        "tempo_alla_prossima_tappa": "~9 minuti a piedi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6805,
+          45.0735
+        ]
+      },
+      "properties": {
+        "tappa": 2,
+        "nome": "Chiesa del Corpus Domini",
+        "indirizzo": "Piazzetta Corpus Domini (via Palazzo di Città), 10122 Torino",
+        "curiosità": "La chiesa fu eretta nel 1607 sul luogo esatto dove, il 6 giugno 1453, avvenne il celebre Miracolo Eucaristico di Torino. Secondo le cronache, un mulo carico di bottino rubato — tra cui un ostensorio con un'Ostia consacrata — si abbatté al suolo proprio in questo punto, e l'Ostia si librò miracolosamente in aria irradiando luce, restando sospesa finché il vescovo Ludovico da Romagnano non la raccolse in un calice. La facciata in marmo bianco è opera di Ascanio Vittozzi, detto l'\"architetto soldato\".",
+        "enigma": "Un animale da soma, ignaro complice di ladri, si inginocchiò qui sei secoli fa, e dal suo carico rubato si levò in volo ciò che nessuna mano umana poteva trattenere: un disco di pane che divenne sole. L'architetto che disegnò la mia veste di marmo bianco combatté con la spada prima che con la matita. Cercami dove la via del palazzo municipale incontra una piazzetta che porta il nome di ciò che volò quel giorno. Dove mi trovo?",
+        "tempo_alla_prossima_tappa": "~6 minuti a piedi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6835,
+          45.0727
+        ]
+      },
+      "properties": {
+        "tappa": 3,
+        "nome": "Real Chiesa di San Lorenzo",
+        "indirizzo": "Via Palazzo di Città 4, 10122 Torino (Piazza Castello)",
+        "curiosità": "Questa chiesa è un capolavoro di Guarino Guarini (1670-1679), ma il suo aspetto esteriore è un paradosso: non ha facciata. Dall'esterno nulla lascia intuire la presenza di un edificio religioso — solo la stupefacente cupola ad archi intrecciati tradisce il segreto. All'interno della cupola, 16 costoloni si intrecciano formando una stella a otto punte, e le aperture dei mascheroni disegnano un pentagono rovesciato. La chiesa fu dedicata a San Lorenzo per celebrare la vittoria nella battaglia di San Quintino, avvenuta il 10 agosto 1557, giorno del santo.",
+        "enigma": "Sono un tempio che si vergogna del proprio volto: non ho facciata, e chi passa davanti a me non sospetta che dentro si nasconda un cielo di pietra dove sedici archi danzano intrecciandosi in una stella. Il mio architetto era un monaco teatino che parlava il linguaggio delle curve impossibili. Nacqui per ringraziare il cielo di una vittoria estiva su un campo di battaglia che porta il nome di un santo bruciato su una graticola. Chi sono?",
+        "tempo_alla_prossima_tappa": "~9 minuti a piedi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6862,
+          45.0693
+        ]
+      },
+      "properties": {
+        "tappa": 4,
+        "nome": "Palazzo Carignano",
+        "indirizzo": "Via Accademia delle Scienze 5, 10123 Torino",
+        "curiosità": "Progettato da Guarino Guarini nel 1679, Palazzo Carignano è l'unico esempio di architettura civile barocca con facciata ondulata interamente in mattoni, ispirata alla chiesa di San Carlo alle Quattro Fontane di Borromini a Roma. Le decorazioni sopra le finestre del piano nobile ricordano la campagna dei Carignano contro gli Irochesi in Canada nel 1667. Qui nacque Vittorio Emanuele II e da qui Carlo Alberto proclamò lo Statuto. Nel 1848, il salone del Guarini ospitò il primo Parlamento Subalpino.",
+        "enigma": "La mia pelle è di terra cotta, ma le mie curve ricordano le onde del mare — il mio creatore le rubò a un genio romano che piegava i muri delle chiese. Sopra le mie finestre sono scolpite battaglie combattute in terre lontane contro guerrieri dalle acconciature piumate, al di là di un oceano. Tra le mie mura un re pianse il suo primo vagito, e in una delle mie sale duecento uomini iniziarono a scrivere le leggi di una nazione ancora da fare. Chi sono?",
+        "tempo_alla_prossima_tappa": "~7 minuti a piedi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.6847,
+          45.067
+        ]
+      },
+      "properties": {
+        "tappa": 5,
+        "nome": "Chiesa di San Filippo Neri",
+        "indirizzo": "Via Maria Vittoria 5, 10123 Torino",
+        "curiosità": "Con i suoi 69 metri di lunghezza e 37 di larghezza, è la chiesa più grande di Torino, capace di ospitare oltre 1000 persone. La sua storia è travagliata: iniziata nella seconda metà del Seicento, fu gravemente danneggiata durante l'assedio francese del 1706 e poi la cupola crollò nel 1714 per problemi alle fondamenta. Il celebre Filippo Juvarra ricevette l'incarico della ricostruzione nel 1715, ma il progetto definitivo fu elaborato solo nel 1730. La grande navata unica luminosa è il risultato del suo genio.",
+        "enigma": "Sono la più grande della mia specie in questa città, eppure pochi mi conoscono. Il mio primo tetto crollò sotto le bombe di un assedio, e il secondo cedette per colpa delle mie stesse fondamenta fragili. Un architetto nato nell'isola dei tre capi impiegò quindici anni per decidere come rivestirmi di luce. Il santo che porto nel nome era un fiorentino che rideva e pregava, e che fondò un oratorio dove la musica era preghiera. Cercami dove Maria ottenne la vittoria. Chi sono?",
+        "tempo_alla_prossima_tappa": "~13 minuti a piedi"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          7.679,
+          45.07
+        ]
+      },
+      "properties": {
+        "tappa": 6,
+        "nome": "Fontana Angelica (Fontana delle Quattro Stagioni)",
+        "indirizzo": "Piazza Solferino, 10121 Torino",
+        "curiosità": "Inaugurata il 28 ottobre 1929 e realizzata dallo scultore Giovanni Riva, questa fontana fu commissionata dal ministro Pietro Bajnotti in memoria dei genitori Angelica Cugiani e Tommaso. Le quattro figure rappresentano le quattro stagioni, ma secondo la tradizione esoterica torinese i due uomini simboleggiano Jachin e Boaz, le due colonne del Tempio di Salomone replicate in ogni loggia massonica. La statua dell'Inverno guarda verso Oriente, dove sorge il sole — e si dice che quando la fontana fu spostata, lo scultore ne modificò l'orientamento per rispettare questa simbologia segreta.",
+        "enigma": "Sono l'ultima custode dei segreti di questa caccia. Il mio nome è quello di una donna, ma non sono una donna: sono acqua e pietra. Quattro figure vegliano su di me, una per ogni volto dell'anno che gira. Ma chi sa leggere i simboli vi troverà due colonne di un tempio mai costruito qui, guardiani di una soglia tra il visibile e l'invisibile. Lo scultore che mi plasmò obbedì a un punto cardinale. Mi trovo in una piazza che porta il nome di una battaglia combattuta in Lombardia nel 1859. Chi sono?"
+      }
+    }
+  ]
+}

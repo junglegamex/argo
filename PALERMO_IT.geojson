@@ -1,0 +1,115 @@
+{
+  "type": "FeatureCollection",
+  "name": "Caccia al Tesoro – Palermo",
+  "description": "6 tappe per una caccia al tesoro tra i luoghi meno scontati di Palermo. Ogni tappa include curiosità storiche e un enigma per scoprire il luogo.",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "tappa": 1,
+        "nome": "Palazzina Cinese",
+        "indirizzo": "Viale Duca degli Abruzzi, 1 – Parco della Favorita, Palermo",
+        "orari": "Mar–Gio 9:00–13:00 | Ven–Sab 9:00–18:00 | Dom–Lun chiuso",
+        "curiosita": "Costruita alla fine del Settecento per Ferdinando III di Borbone, è l'unico esempio di architettura chinoiserie in Sicilia – e uno dei pochissimi in tutta Italia. Nel 1799 il re vi si rifugiò con la moglie Maria Carolina d'Austria (sorella di Maria Antonietta) fuggendo dall'invasione napoleonica di Napoli. La sala da pranzo conserva un tavolo meccanico girevole: i piatti venivano montati dal piano di sotto tramite un ingegnoso sistema a rotazione, così il re poteva pranzare senza che i servitori entrassero nella stanza.",
+        "enigma": "Non sono pagoda, non sono tempio, eppure le mie cupole sembrano venire da molto lontano. Un re borbonico mi fece costruire nel mezzo di un parco di caccia, lontano dai cannoni francesi. Il mio stile è orientale, ma il mio cuore è siciliano. Sono l'unica del mio genere sull'isola. Dove sono?",
+        "link": "https://it.wikipedia.org/wiki/Palazzina_Cinese",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "1"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3303277, 38.1667313]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tappa": 2,
+        "nome": "Castello della Zisa",
+        "indirizzo": "Piazza Zisa – Palermo",
+        "orari": "Mar–Sab 9:00–18:30 | Dom–Lun chiuso",
+        "curiosita": "Il nome 'Zisa' deriva dall'arabo al-'Azīza, ovvero 'la Magnifica'. Il castello fu edificato dai re normanni nel XII secolo ma interamente nello stile dei palazzi fatimidi del Cairo. Al pianterreno si trova il 'Fontano del Genio': una fontana a cascata che sfruttava la ventilazione convettiva naturale per rinfrescare le sale – un vero e proprio condizionatore d'aria del Medioevo. Curiosità: lo stesso re che lo fece costruire (Guglielmo I) parlava correntemente l'arabo e teneva un harem.",
+        "enigma": "Sono un palazzo normanno che si vergogna di esserlo: le mie pareti parlano arabo, i miei archi guardano verso La Mecca e il mio nome viene dal deserto. Dentro di me scorre acqua che non serve a dissetare, ma a rinfrescare. Un re che amava l'Oriente mi volle come paradiso in terra. Il mio nome significa 'splendore'. Dove sono?",
+        "link": "https://it.wikipedia.org/wiki/Castello_della_Zisa",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "2"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3409998, 38.1167484]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tappa": 3,
+        "nome": "Catacombe dei Cappuccini",
+        "indirizzo": "Piazza Cappuccini, 1 – Palermo",
+        "orari": "Tutti i giorni 9:00–12:10 e 15:00–17:10",
+        "curiosita": "Sotto il convento dei Cappuccini riposano circa 8.000 corpi mummificati, disposti per categoria: sacerdoti, professionisti, bambini, vergini. Dal Settecento erano meta obbligatoria dei viaggiatori del Grand Tour. La mummia più celebre è quella di Rosalia Lombardo (1920), una bambina di due anni il cui metodo di imbalsamazione – a base di formalina, alcol, acido salicilico, glicerina e sali di zinco – fu scoperto solo nel 2009, grazie ai diari ritrovati del tassidermista Alfredo Salafia. Le sue palpebre sembrano semi-trasparenti, quasi sul punto di schiudersi.",
+        "enigma": "Qui i morti non giacciono: stanno in piedi, vestiti dei loro abiti migliori, ordinati per mestiere e per sesso. La più famosa di loro ha solo due anni e dorme da oltre un secolo senza invecchiare. I frati che la custodiscono portano il nome del colore del loro saio. Non è un cimitero, non è un museo: è qualcosa di unico al mondo. Dove sono?",
+        "link": "https://it.wikipedia.org/wiki/Catacombe_dei_Cappuccini",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "3"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3392846, 38.111780]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tappa": 4,
+        "nome": "Oratorio del Santissimo Rosario in Santa Cita",
+        "indirizzo": "Via Valverde, 3 – Palermo",
+        "orari": "Lun/Mer–Dom 10:00–13:30 e 14:00–18:00 | Mar chiuso",
+        "curiosita": "L'oratorio è un capolavoro di Giacomo Serpotta (1686–1718), considerato il più grande stuccatore europeo di tutti i tempi. La controfacciata ospita un monumentale bassorilievo della Battaglia di Lepanto (1571), unico nel suo genere in Sicilia. Serpotta nascose nella decorazione un piccolo riferimento alla propria firma: la parola 'Serpotta' in siciliano significa 'lucertola', e lo scultore soleva nascondere piccole lucertole dorate tra gli stucchi come firma segreta.",
+        "enigma": "Sono decorata da un artista che lavorava il gesso come se fosse marmo. Sulla mia controfacciata è scolpita la più grande battaglia navale della storia cristiana, combattuta nel 1571 nelle acque di un golfo greco. Se cerchi bene tra gli stucchi bianchi, troverai nascosta una piccola creatura a sangue freddo: è la firma del mio autore. Non sono una chiesa, sono qualcosa di più piccolo e segreto. Dove sono?",
+        "link": "https://it.wikipedia.org/wiki/Oratorio_del_Santissimo_Rosario_in_Santa_Cita",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "4"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3633839, 38.1207956]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tappa": 5,
+        "nome": "Oratorio di San Lorenzo",
+        "indirizzo": "Via Immacolatella, 5 – Palermo",
+        "orari": "Tutti i giorni 10:00–18:00",
+        "curiosita": "Tra il 17 e il 18 ottobre 1969, la Natività con i Santi Lorenzo e Francesco di Caravaggio fu trafugata dall'altare in meno di dieci minuti, arrotolata e portata via su un camioncino della frutta. L'FBI la inserisce nella lista dei dieci capolavori rubati più importanti al mondo, stimandola oltre 20 milioni di dollari. Confessioni di pentiti di mafia suggerirono che la tela fosse stata usata come merce di scambio nel mercato nero internazionale. Ad oggi, dopo 56 anni, nessuno sa dove si trovi. Al suo posto sull'altare campeggia una copia ad altissima tecnologia realizzata da un laboratorio di Madrid.",
+        "enigma": "Sull'altare di questo piccolo oratorio c'è un quadro che non è il quadro. L'originale sparì una notte d'ottobre, portato via da mani invisibili mentre il quartiere dormiva. Il pittore che lo aveva dipinto era un fuggiasco, un condannato a morte che trovò pace solo nell'arte. La sua opera vale decine di milioni, ma nessuno la vede da oltre mezzo secolo. Dove si trova la cornice che ne custodisce il fantasma?",
+        "link": "https://it.wikipedia.org/wiki/Oratorio_di_San_Lorenzo_(Palermo)",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "5"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3662602, 38.1168058]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "tappa": 6,
+        "nome": "Ponte dell'Ammiraglio",
+        "indirizzo": "Corso dei Mille / Piazza Ponte dell'Ammiraglio – Palermo",
+        "orari": "Accesso libero H24",
+        "curiosita": "Costruito nel 1131 da Giorgio d'Antiochia (lo stesso ammiraglio che edificò la chiesa della Martorana), il ponte attraversava il fiume Oreto. Quando il fiume fu deviato nel 1938 per i continui straripamenti, il ponte si ritrovò 'a secco', circondato da un giardino al posto dell'acqua. Secondo alcuni storici fu il primo ponte in muratura costruito in tutta Europa. Il 27 maggio 1860 fu teatro della Battaglia del Ponte dell'Ammiraglio, che aprì a Garibaldi le porte di Palermo. Renato Guttuso immortalò quello scontro in un quadro oggi conservato agli Uffizi di Firenze.",
+        "enigma": "Sono un ponte che ha perso il suo fiume. Per quasi 900 anni ho tenuto i piedi nell'acqua, poi un giorno il fiume se n'è andato e mi ha lasciato in mezzo a un giardino. Un pittore di Bagheria mi ha dipinto mentre un generale con la camicia rossa attraversava le mie arcate. Sono patrimonio UNESCO ma mi trovate in una piazza di periferia. Chi sono?",
+        "link": "https://it.wikipedia.org/wiki/Ponte_dell%27Ammiraglio",
+        "marker-color": "#e74c3c",
+        "marker-symbol": "6"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [13.3750231, 38.1050761]
+      }
+    }
+  ]
+}

@@ -1,0 +1,99 @@
+{
+  "type": "FeatureCollection",
+  "name": "Caccia al Tesoro — Napoli, Centro Storico",
+  "description": "Un percorso enigmistico tra 5 luoghi iconici del cuore di Napoli. Ogni tappa dista dalla successiva tra 500 m e 1 km in linea d'aria, percorribile comodamente a piedi.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.25306, 40.84649]
+      },
+      "properties": {
+        "tappa": 1,
+        "nome": "Basilica e Chiostro di Santa Chiara",
+        "indirizzo": "Via Santa Chiara, 49/c — 80134 Napoli",
+        "curiosità": "Il celebre Chiostro Maiolicato fu trasformato nel 1742 da Domenico Antonio Vaccaro: le sue 72 colonne ottagonali sono rivestite di maioliche policrome che raffigurano scene di vita popolare napoletana — fra cui un Pulcinella danzante, pescatori con le reti e popolane al lavoro. Il bombardamento alleato del 4 agosto 1943 distrusse quasi completamente la chiesa e le decorazioni barocche settecentesche; il restauro, durato oltre dieci anni, riportò la basilica al suo aspetto gotico-angioino originale. Una curiosa maiolica nascosta in un angolo del chiostro ritrae una monaca clarissa che distribuisce cibo ai gatti del convento: uno spaccato della vita reale nel monastero.",
+        "enigma": "Dove le monache austere vestirono il silenzio di colori, e settantadue sentinelle ottagonali indossano abiti di terra e fuoco? Un re francese volle questo luogo per la sua sposa devota, e un bombardamento lo spogliò per restituirgli il primo volto. Cerca dove Pulcinella danza tra foglie di ceramica e il tempo ha due facce: quella antica ritrovata e quella barocca perduta.",
+        "distanza_prossima_tappa_m": 780,
+        "difficoltà_enigma": "media"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.25075, 40.85328]
+      },
+      "properties": {
+        "tappa": 2,
+        "nome": "Museo Archeologico Nazionale di Napoli (MANN)",
+        "indirizzo": "Piazza Museo, 19 — 80135 Napoli",
+        "curiosità": "Il MANN custodisce il 'Gabinetto Segreto', una collezione di arte erotica proveniente da Pompei ed Ercolano che per quasi due secoli fu considerata talmente scandalosa da essere chiusa al pubblico. Aperta da Garibaldi nel 1860 come gesto liberale, fu nuovamente sigillata più volte fino alla definitiva riapertura nel 2000. Il museo ospita inoltre il Toro Farnese — il più grande gruppo scultoreo dell'antichità giunto fino a noi — e il monumentale Ercole Farnese, entrambi rinvenuti nelle Terme di Caracalla a Roma nel XVI secolo e poi trasferiti a Napoli con l'eredità dei Farnese.",
+        "enigma": "Cammina verso nord. Cerca la dimora dove un eroe dalla clava riposa stanco accanto a un toro furioso, e dove per secoli si è nascosta una stanza che faceva arrossire papi e re. Un condottiero in camicia rossa aprì le sue porte proibite. Le sue mura un tempo ospitavano cavalieri a cavallo, non opere d'arte: quale edificio era prima di diventare scrigno del mondo antico?",
+        "distanza_prossima_tappa_m": 588,
+        "difficoltà_enigma": "media"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.25510, 40.84914]
+      },
+      "properties": {
+        "tappa": 3,
+        "nome": "Cappella Sansevero (Museo Cappella Sansevero)",
+        "indirizzo": "Via Francesco de Sanctis, 19/21 — 80134 Napoli",
+        "curiosità": "Il Cristo Velato di Giuseppe Sanmartino (1753) è considerato uno dei capolavori assoluti della scultura mondiale. La leggenda vuole che il committente, il principe alchimista Raimondo di Sangro, avesse insegnato allo scultore il segreto per trasformare un velo di tessuto in cristalli di marmo. In realtà il velo è ricavato dallo stesso blocco di marmo della statua, come attestato dal contratto di pagamento del 16 dicembre 1752 firmato dal principe stesso. Nel sotterraneo della cappella si trovano anche due inquietanti 'Macchine Anatomiche': scheletri umani con l'intero sistema circolatorio apparentemente preservato, altro mistero legato agli esperimenti del principe.",
+        "enigma": "Scendi verso sud-est. In un vicolo stretto, un principe che parlava con il fuoco e l'ombra commissionò il miracolo più trasparente della pietra. Qui un corpo dorme sotto un soffio di marmo che sembra seta, e nel ventre dell'edificio, vene e arterie raccontano esperimenti che la Chiesa non perdonò. Chi giace velato eppure mai così visibile? Cerca dove la pietra imparò a respirare.",
+        "distanza_prossima_tappa_m": 532,
+        "difficoltà_enigma": "medio-alta"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.25960, 40.85250]
+      },
+      "properties": {
+        "tappa": 4,
+        "nome": "Duomo di Napoli (Cattedrale di Santa Maria Assunta)",
+        "indirizzo": "Via Duomo, 147 — 80138 Napoli",
+        "curiosità": "Tre volte l'anno — il sabato che precede la prima domenica di maggio, il 19 settembre e il 16 dicembre — Napoli trattiene il fiato: due ampolline antichissime contenenti quella che si ritiene essere il sangue di San Gennaro vengono esposte e, se il sangue si liquefà, la città è salva. Se il miracolo non avviene, i napoletani temono sciagure. La Cappella del Tesoro di San Gennaro nacque da un voto del 1527 fatto dai napoletani contro tre flagelli contemporanei: il colera, la guerra franco-spagnola e un'eruzione del Vesuvio. Il Duomo ingloba al suo interno anche la più antica basilica paleocristiana di Napoli, Santa Restituta (IV secolo), con il battistero di San Giovanni in Fonte, il più antico d'Occidente.",
+        "enigma": "Vai verso nord-est. Cerca il luogo dove tre volte l'anno un'intera città prega il rosso a farsi liquido, e dove un triplice flagello generò un voto di pietra e oro. Al suo interno si nasconde una chiesa nella chiesa, con la vasca dove l'acqua santa bagnò le prime anime cristiane d'Occidente. Chi è il santo guerriero il cui sangue sfida ogni legge della natura?",
+        "distanza_prossima_tappa_m": 667,
+        "difficoltà_enigma": "medio-bassa"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [14.25356, 40.84861]
+      },
+      "properties": {
+        "tappa": 5,
+        "nome": "Basilica di San Domenico Maggiore",
+        "indirizzo": "Piazza San Domenico Maggiore, 8A — 80134 Napoli",
+        "curiosità": "Nella sagrestia della basilica, su un ballatoio pensile, sono conservate 45 Arche Aragonesi: casse lignee rivestite di tessuti preziosi che contengono i corpi mummificati di re aragonesi e illustri membri della corte napoletana, dal Quattrocento all'Ottocento. I preziosi abiti rinvenuti sulle mummie rappresentano una testimonianza unica della moda rinascimentale e barocca napoletana. In questo convento insegnò e studiò San Tommaso d'Aquino, che qui tenne le sue lezioni di teologia nel XIII secolo — non in latino universitario, bensì in volgare, per farsi comprendere da tutti. La leggenda vuole che un crocifisso nella cappella gli parlò dicendo: 'Bene scripsisti de me, Thoma' ('Hai scritto bene di me, Tommaso').",
+        "enigma": "Torna verso sud-ovest. Nella piazza con l'ago di pietra che punta il cielo, cerca la casa dei cani del Signore — così si chiamavano i frati che qui dimoravano. Sopra le loro teste, quarantacinque valigie di seta custodiscono viaggiatori che partirono per l'ultimo viaggio. Un dottore angelico udì qui una voce dal legno che lo lodava. Dove dormono i re in bauli appesi e un santo conversava con il crocifisso?",
+        "distanza_prossima_tappa_m": null,
+        "difficoltà_enigma": "alta"
+      }
+    }
+  ],
+  "properties": {
+    "città": "Napoli",
+    "regione": "Campania",
+    "paese": "Italia",
+    "numero_tappe": 5,
+    "distanza_totale_stimata_m": 2567,
+    "tempo_stimato_percorrenza": "30-40 minuti (solo cammino)",
+    "tempo_stimato_con_enigmi": "2-3 ore",
+    "difficoltà_complessiva": "media",
+    "nota": "Le distanze indicate sono in linea d'aria tra tappe consecutive e sono comprese tra 500 m e 1 km. Il percorso pedonale effettivo può essere leggermente più lungo. Si consiglia di iniziare la mattina per trovare tutti i siti aperti.",
+    "suggerimento_partenza": "Raggiungere la Tappa 1 con la Metro Linea 1, fermata Dante (circa 5 minuti a piedi)."
+  }
+}

@@ -1,0 +1,103 @@
+{
+  "type": "FeatureCollection",
+  "name": "Caccia al Tesoro – Bari",
+  "description": "Una caccia al tesoro attraverso 6 luoghi emblematici del centro storico di Bari. Percorso interamente pedonale, circa 60-75 minuti totali di cammino.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.8727, 41.1235]
+      },
+      "properties": {
+        "tappa": 1,
+        "nome": "Teatro Petruzzelli",
+        "indirizzo": "Corso Cavour, 70122 Bari",
+        "curiosità": "Il Teatro Petruzzelli, inaugurato nel 1903, è il quarto teatro d'Italia per dimensioni e il più grande teatro privato d'Europa, di proprietà della famiglia Messeni Nemagna. Nella notte tra il 26 e il 27 ottobre 1991 fu completamente distrutto da un incendio doloso: l'ultima opera rappresentata prima della tragedia fu la Norma di Bellini. Ricostruito e riconsegnato alla città solo nel 2009.",
+        "enigma": "Sono un gigante che canta, il più grande nel suo genere tra i privati del Vecchio Continente. Una notte d'autunno del '91, dopo che una druidessa celtica intonò il suo ultimo canto, le fiamme mi divorarono. Ma come la fenice, sono rinato dalle mie ceneri. Chi sono?",
+        "soluzione": "Teatro Petruzzelli",
+        "tempo_a_piedi_per_tappa_successiva": "12 minuti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.8693, 41.1274]
+      },
+      "properties": {
+        "tappa": 2,
+        "nome": "Castello Normanno-Svevo",
+        "indirizzo": "Piazza Federico II di Svevia, 4, 70122 Bari",
+        "curiosità": "Il Castello fu probabilmente edificato nel 1132 dal re normanno Ruggero II su preesistenti strutture bizantine. Fu distrutto nel 1156 da Guglielmo I il Malo e poi ricostruito e fortificato da Federico II di Svevia tra il 1233 e il 1240. In epoca rinascimentale, Isabella d'Aragona e sua figlia Bona Sforza — che fu anche Regina di Polonia — vi tennero una raffinata corte ducale.",
+        "enigma": "Tre sovrani mi plasmarono: un normanno mi generò, un 'malvagio' mi abbatté, e uno Stupor Mundi mi fece risorgere più forte. Tra le mie mura una duchessa italiana divenne regina di una terra lontana, dove l'aquila bianca domina le pianure. Quale fortezza sono?",
+        "soluzione": "Castello Normanno-Svevo",
+        "tempo_a_piedi_per_tappa_successiva": "7 minuti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.8684, 41.1285]
+      },
+      "properties": {
+        "tappa": 3,
+        "nome": "Cattedrale di San Sabino",
+        "indirizzo": "Piazza dell'Odegitria, 70122 Bari",
+        "curiosità": "La Cattedrale fu eretta tra il XII e il XIII secolo sulle rovine del Duomo bizantino distrutto da Guglielmo il Malo. Al suo interno si conserva un prezioso Exultet (rotolo liturgico miniato) anteriore al 1025. La struttura ingloba la Trulla, un antico battistero di pianta dodecagonale poi convertito in sacrestia nel XVII secolo, uno dei pochissimi esempi di battistero a pianta centrale sopravvissuti in Puglia.",
+        "enigma": "Sorgo dalle ceneri di una chiesa che un 'malvagio' volle distruggere. Custodisco un rotolo miniato millenario e, nel mio grembo, nascondo una stanza con dodici lati dove un tempo l'acqua lavava il peccato originale. Il mio patrono non è il santo più famoso della città, ma un vescovo venuto da Canosa. Chi sono?",
+        "soluzione": "Cattedrale di San Sabino (Duomo di Bari)",
+        "tempo_a_piedi_per_tappa_successiva": "5 minuti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.8688, 41.1292]
+      },
+      "properties": {
+        "tappa": 4,
+        "nome": "Basilica di San Nicola",
+        "indirizzo": "Largo Abate Elia, 13, 70122 Bari",
+        "curiosità": "Nel 1087, circa 62 marinai baresi trafugarono le reliquie di San Nicola dalla città di Myra (nell'odierna Turchia) e le portarono a Bari. Le reliquie, custodite nella cripta, producono ogni anno un liquido miracoloso noto come la 'Manna di San Nicola', raccolto solennemente il 9 maggio. Nella basilica si trova anche il monumento funebre di Bona Sforza, duchessa di Bari e Regina di Polonia, morta nel 1557.",
+        "enigma": "Sessantadue uomini di mare compirono un furto sacro in terra d'Oriente per portarmi un dono che ancora oggi 'piange' ogni nove di maggio. Nelle mie viscere riposano le ossa di colui che ispirò la leggenda del vecchio vestito di rosso che porta doni ai bambini. Accanto a lui dorme una regina che regnò tra la Vistola e il Bug. Dove ti trovi?",
+        "soluzione": "Basilica di San Nicola",
+        "tempo_a_piedi_per_tappa_successiva": "8 minuti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.8713, 41.1268]
+      },
+      "properties": {
+        "tappa": 5,
+        "nome": "Piazza Mercantile – Colonna della Giustizia (Colonna Infame)",
+        "indirizzo": "Piazza Mercantile, 70122 Bari",
+        "curiosità": "La Colonna della Giustizia, nota ai baresi come 'Colonna Infame', è un complesso scultoreo composto da una colonna di marmo bianco su quattro gradini con una sfera in cima e un leone di pietra alla base che reca sul petto la scritta 'Custos Iustitiae'. Nel XVI secolo i debitori insolventi venivano legati nudi alla colonna per tre giorni, esposti al pubblico ludibrio. La colonna porta ancora oggi i segni lasciati dalle corde.",
+        "enigma": "In una piazza dove un tempo si facevano affari, un guardiano di pietra con un motto latino sul petto veglia ai piedi di una colonna che conobbe la vergogna. Chi non pagava i propri debiti vi veniva legato senza vesti per tre giorni e tre notti. Se guardi bene, la pietra ricorda ancora il morso delle funi. Quale monumento cerchi?",
+        "soluzione": "Colonna della Giustizia (Colonna Infame) in Piazza Mercantile",
+        "tempo_a_piedi_per_tappa_successiva": "5 minuti"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [16.8706, 41.1260]
+      },
+      "properties": {
+        "tappa": 6,
+        "nome": "Piazza del Ferrarese",
+        "indirizzo": "Piazza del Ferrarese, 70122 Bari",
+        "curiosità": "Sotto i piedi dei passanti, protetto da una lastra di vetro, si nasconde un tratto dell'antica Via Traiana, la strada romana voluta dall'imperatore Traiano agli inizi del II secolo d.C. per collegare Benevento a Brindisi. Il nome della piazza deriva probabilmente da un commerciante giunto da Ferrara, tale Stefano Fabri, citato in documenti del XVII secolo, che qui fece fortuna.",
+        "enigma": "Sono il salotto della città, dove la terra cela sotto il vetro le orme di un imperatore che volle una strada dall'entroterra campano fino al tallone dello Stivale. Il mio nome non viene da un fabbro, ma da un mercante forestiero che lasciò la città delle tre delizie estensi per cercare fortuna al Sud. Dove sei arrivato?",
+        "soluzione": "Piazza del Ferrarese",
+        "tempo_a_piedi_per_tappa_successiva": "Fine del percorso 🏆"
+      }
+    }
+  ]
+}

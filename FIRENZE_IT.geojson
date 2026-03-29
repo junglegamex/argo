@@ -1,0 +1,82 @@
+{
+  "type": "FeatureCollection",
+  "name": "Caccia al Tesoro — Firenze",
+  "description": "5 tappe nel cuore di Firenze, tutte raggiungibili a piedi in pochi minuti l'una dall'altra.",
+  "features": [
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2551, 43.7696]
+      },
+      "properties": {
+        "tappa": 1,
+        "nome": "Cattedrale di Santa Maria del Fiore (Duomo) — La testa di toro",
+        "indirizzo": "Piazza del Duomo, tra Via Ricasoli e Via dei Servi, Firenze",
+        "curiosità": "Sul fianco sinistro del Duomo, in alto fra Via Ricasoli e Via dei Servi, si può scorgere un doccione marmoreo raffigurante una grossa testa di bue con tanto di corna. La leggenda popolare narra che, intorno al 1400, un capomastro impegnato nella costruzione della Cattedrale avesse una relazione clandestina con la moglie di un bottegaio della zona. Quando il marito scoprì il tradimento, denunciò gli amanti al tribunale ecclesiastico, che impose la fine della relazione. Per vendetta, il capomastro fece scolpire e collocare la testa del toro con le corna rivolta esattamente verso la bottega del marito tradito, così che ogni giorno questi fosse costretto a vederla e a ricordare la propria condizione di 'cornuto'. La scultura è ancora lì, dopo oltre sei secoli.",
+        "enigma": "Sorgo maestosa nel cuore del Giglio, / con cupola rossa, del Brunelleschi figlio. / Ma cerca sul fianco, alza lo sguardo al cielo: / un animale cornuto svela un antico velo. / Non è sacro bue né simbolo divino, / ma beffa d'amante verso un bottegaio vicino. / Tra due vie che portano nomi di uomini illustri, / troverai la bestia che da secoli ti lustri. / Dove sono?",
+        "soluzione": "Cattedrale di Santa Maria del Fiore — Doccione della Testa di Toro (lato tra Via Ricasoli e Via dei Servi)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2562, 43.7694]
+      },
+      "properties": {
+        "tappa": 2,
+        "nome": "Palazzo Vecchio — L'Importuno di Michelangelo",
+        "indirizzo": "Piazza della Signoria, facciata destra di Palazzo Vecchio, Firenze",
+        "curiosità": "Sulla facciata destra di Palazzo Vecchio, dietro il gruppo scultoreo di Ercole e Caco di Baccio Bandinelli, si trova inciso nella pietra il profilo di un volto maschile. I fiorentini lo chiamano 'L'Importuno'. La leggenda vuole che sia stato scolpito da Michelangelo Buonarroti in persona: un uomo era solito importunare il grande artista, assillandolo con domande e richieste noiose. Un giorno, esasperato, Michelangelo decise di ritrarre il volto del seccatore direttamente sulla bugna del palazzo, di nascosto, tenendo le mani dietro la schiena — un capolavoro di dispetto e di abilità scolpita 'alla cieca'.",
+        "enigma": "Nella piazza dove i Signori un tempo regnavano, / sorge un palazzo severo con torri merlate e sovrane. / Non cercare in alto, ma in basso, tra le pietre grezze: / un volto silenzioso si cela tra le rughe e le asprezze. / Dietro un eroe dalla clava e un mostro abbattuto, / un genio beffardo ha lasciato un ritratto muto. / Dicono lo scolpì senza guardare, le mani dietro la schiena — / chi è il maestro e chi il seccatore di questa scena? / Trova il profilo nascosto nella pietra.",
+        "soluzione": "Palazzo Vecchio — 'L'Importuno', profilo scolpito attribuito a Michelangelo (facciata destra, dietro Ercole e Caco)"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2557, 43.7697]
+      },
+      "properties": {
+        "tappa": 3,
+        "nome": "Fontana del Nettuno (Il Biancone)",
+        "indirizzo": "Piazza della Signoria, angolo nord-ovest di Palazzo Vecchio, Firenze",
+        "curiosità": "La Fontana del Nettuno, soprannominata dai fiorentini 'Il Biancone', fu realizzata da Bartolomeo Ammannati e inaugurata nel 1574 dopo oltre un decennio di lavori. Fu la prima fontana pubblica con funzione decorativa e simbolica di Firenze, commissionata da Cosimo I de' Medici per celebrare le ambizioni marittime del Granducato. Ma l'opera non fu accolta con entusiasmo: la tradizione attribuisce a Michelangelo (o forse al Cellini, o alla voce del popolo) la celebre frase beffarda: 'Ammannati, Ammannati, quanto marmo t'hai sciupato!'. Nel XVI secolo la fontana fu persino usata come lavatoio, e nel 1592 fu necessario apporre una ringhiera di protezione per impedire che gli animali della vicina Dogana la usassero come abbeveratoio.",
+        "enigma": "Bianco gigante di marmo, signore dei mari, / domino una piazza di bronzi e di palazzi rari. / I fiorentini mi deridono da cinquecento anni, / e un sommo artista pianse i miei marmorei danni. / 'Quanto hai sciupato!' — fu il grido di scherno. / Eppure resto qui, imponente e in eterno. / Ai miei piedi creature marine suonano flauti d'acqua, / e un tempo perfino i buoi in me si abbeveravano. / Chi sono io, il gigante che tutti chiamano per colore?",
+        "soluzione": "Fontana del Nettuno — 'Il Biancone' di Bartolomeo Ammannati, Piazza della Signoria"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2531, 43.7680]
+      },
+      "properties": {
+        "tappa": 4,
+        "nome": "Fontana del Porcellino",
+        "indirizzo": "Loggia del Mercato Nuovo, Piazza del Mercato Nuovo, Firenze",
+        "curiosità": "La celebre Fontana del Porcellino si trova alla Loggia del Mercato Nuovo, a pochi passi da Ponte Vecchio. Il nome è fuorviante: non raffigura un porcellino domestico, ma un maestoso cinghiale ferito durante una caccia. La statua in bronzo che vediamo oggi è in realtà una copia: l'originale seicentesco di Pietro Tacca (a sua volta ispirato a un marmo ellenistico conservato agli Uffizi) è custodito al Museo Stefano Bardini. La tradizione popolare vuole che si inserisca una monetina nella bocca del cinghiale e la si lasci cadere: se scivola attraverso la grata sottostante, si è destinati a tornare a Firenze. Strofinare il naso della statua, ormai lucidissimo, porterebbe ulteriore fortuna.",
+        "enigma": "Mi chiamano con un nome che non mi appartiene, / sono fiero e selvaggio, non creatura da cortile serene. / In una loggia di mercanti mi troverai, / il mio naso è lucido — sai perché lo strofinerai? / Una moneta nella bocca, un desiderio nel cuore: / se cade nella grata, tornerai con amore / nella città del Fiore. Ma bada: chi mi vede oggi / non vede il vero me — sono copia tra i fondaci e i poggi. / Cercami dove si vendeva e si mercanteggiava, / a pochi passi dal ponte dove l'oro brillava.",
+        "soluzione": "Fontana del Porcellino — Loggia del Mercato Nuovo"
+      }
+    },
+    {
+      "type": "Feature",
+      "geometry": {
+        "type": "Point",
+        "coordinates": [11.2532, 43.7680]
+      },
+      "properties": {
+        "tappa": 5,
+        "nome": "Ponte Vecchio",
+        "indirizzo": "Ponte Vecchio, Firenze",
+        "curiosità": "Ponte Vecchio sorge nel punto più stretto dell'Arno, dove già gli Etruschi avrebbero edificato un attraversamento. Il ponte attuale risale al 1345, ricostruito dopo una disastrosa alluvione. Inizialmente le botteghe sul ponte erano occupate da beccai (macellai), pescivendoli, erbivendoli e altri commercianti 'minuti'. Fu il Granduca Ferdinando I nel 1593 a emanare un decreto che sfrattò tutti questi artigiani, sostituendoli con orafi e gioiellieri — per ragioni di decoro, visto che sul ponte passava anche il Corridoio Vasariano, il passaggio privato dei Medici costruito dal Vasari in soli 5 mesi nel 1565 per collegare Palazzo Vecchio a Palazzo Pitti. A metà del ponte, sul lato destro, una loggetta ospita il busto di Benvenuto Cellini, il più celebre orafo fiorentino, opera di Raffaele Romanelli del 1900.",
+        "enigma": "Sono il più antico e il più famoso, / sul fiume che divide la città io mi riposo. / Un tempo puzzavo di carne e di pesce, / finché un Granduca disse: 'Solo oro da qui esce!' / Sopra di me corre un corridoio segreto, / costruito in cinque mesi — un passaggio discreto / per signori che dal palazzo alla reggia andavano / senza mescolarsi al popolo che in piazza passeggiavano. / A metà del mio dorso, cercate un orafo famoso: / il suo busto di bronzo veglia, pensieroso. / Chi sono io, il ponte che non è mai nuovo?",
+        "soluzione": "Ponte Vecchio"
+      }
+    }
+  ]
+}
